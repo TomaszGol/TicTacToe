@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.08.22 12:00:14.923,=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.08.22 12:00:15.197,=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.08.22 12:00:35.906,C:\Users\Tomek\Desktop\TicTacToe\Tictactoe.cpp=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.08.22 12:00:35.906,C:\Users\Tomek\Desktop\TicTacToe\Tictactoe.dfm=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.08.22 12:00:35.906,C:\Users\Tomek\Desktop\TicTacToe\Tictactoe.h=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.08.22 12:00:41.892,C:\Users\Tomek\Desktop\TicTacToe\Project1PCH1.h=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.08.22 12:00:42.675,C:\Users\Tomek\Desktop\TicTacToe\Project1.cbproj=C:\Users\Tomek\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020.08.22 12:01:01.159,C:\Users\Tomek\Desktop\TicTacToe\TictacPCH1.h=C:\Users\Tomek\Desktop\TicTacToe\Project1PCH1.h</Transaction>
+    <Transaction>2020.08.22 12:01:01.165,C:\Users\Tomek\Desktop\TicTacToe\Tictac.cbproj=C:\Users\Tomek\Desktop\TicTacToe\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
